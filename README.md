@@ -1,5 +1,5 @@
-# myFood
-Malaysian Food Dataset V1.0
+# myFood11
+#Malaysian Food Dataset V1.0
 This dataset is composed of two categories: 
 1) Images captured for stereo image food analysis (Burger Bun, Fried Chicken, Brownie, Pizza Slice)
 2) Images that are collected from internet sources and annotated using PASCAL VOC format
