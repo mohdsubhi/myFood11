@@ -1,5 +1,5 @@
 # myFood11
-**Malaysian Food Dataset V1.0**
+**Malaysian Food Dataset V1.0**  
 This dataset is composed of 11 food categories in folders numbered from 1 to 11: 
 The food classes in the second category are: 
 1- Rice 
