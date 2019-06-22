@@ -16,7 +16,7 @@ This dataset is composed of 11 food categories in folders numbered from 1 to 11:
 Images that are collected from internet sources and annotated using PASCAL VOC format stored in comma seperataed values (CSV Files)  
 Two annotation files are included in each folder train and test that seperates the data into 80% 20% train/test sets.  
 To cite this work please use the following reference:  
-**Subhi, M. A., & Ali, S. M. (2018). A Deep Convolutional Neural Network for Food Detection and Recognition. 2018 
-IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES), 284–287. IEEE.**
+>Subhi, M. A., & Ali, S. M. (2018). A Deep Convolutional Neural Network for Food Detection and Recognition. 2018 
+IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES), 284–287. IEEE.
 
 
